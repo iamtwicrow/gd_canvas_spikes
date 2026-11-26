@@ -1,4 +1,4 @@
-###GD Node
+#GD Node
 
 
 This is regular GDScript represented as nodes. You can edit it visually by connecting and modifying nodes, generate GDScript from scratch, or write code without needing to understand how Gdscript works.
